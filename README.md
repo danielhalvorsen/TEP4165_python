@@ -8,7 +8,7 @@
 
                   
 * Assignment 2
-   * Features an approximate solution to the 1d heat conduction equation using a standard FVM discretization in space and the explicit Euler method in time.
+   * Features an approximate solution to the 1D heat conduction equation using a standard FVM discretization in space and the explicit Euler method in time.
 
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
 <p align="center"><img src="/tex/8f30b89e9ae3bfbe35ad5797de695672.svg?invert_in_darkmode&sanitize=true" align=middle width=286.95335295pt height=33.62942055pt/></p>
