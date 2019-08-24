@@ -1,8 +1,13 @@
 # TEP4165_python #
-TEP4165 assignments written in Python 3.6.8.
+### TEP4165 assignments written in Python 3.6.8. ###
 
-$$ \begin{itemize}
-   \item Assignment 1 features an analytical solution for the 1D heatconduction equation.
-   \end{itemize}$$
+* Assignment 1
+   * Features an analytical solution for the 1D heatconduction equation.
+   
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
+
+                  
+* Assignment 2
+   * Features an approximate solution to the 1d heat conduction equation using a standard FVM discretization in space and the explicit Euler method in time.
+
 
