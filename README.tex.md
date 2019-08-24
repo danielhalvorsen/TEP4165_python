@@ -11,4 +11,4 @@ $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
    * Features an approximate solution to the 1d heat conduction equation using a standard FVM discretization in space and the explicit Euler method in time.
 
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
-$$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\[T_{j+1}^{n}-2T_{j}^{n}+T_{j-1}^{n}\]
+$$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\[T_{j+1}^{n}-2T_{j}^{n}+T_{j-1}^{n}\]$$
