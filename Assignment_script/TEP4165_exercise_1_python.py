@@ -8,6 +8,7 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+import pickle
 
 
 def compute_T(T_l, T_r, t, i, alpha, L, x):
@@ -39,6 +40,9 @@ if __name__ == '__main__':
         for i in range(1, iterations + 1):
             T[t_idx, :] = T[t_idx, :] + compute_T(T_l, T_r, t, i, alpha, L, x_vector)
         plt.plot(x_vector / x_vector[-1], T[t_idx, :])
+    #Save T variable to use in next assignment
+    with open('T_analytical.pkl','wb') as f:
+        pickle.dump([T],f)
     # Plot commands
     plt.ylabel('Temperature, T')
     plt.xlabel('Spatial dimension, x/L')
