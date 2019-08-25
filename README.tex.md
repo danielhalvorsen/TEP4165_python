@@ -13,4 +13,4 @@ $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
 $$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\left[T_{j+1}^{n}-2T_{j}^{n}+T_{j-1}^{n}\right]$$
 
-![alt text](https://raw.githubusercontent.com/danielhalvorsen/TEP4165_python/master/Assignment_script/FVM_EXACT_HEATCONDUCTION.png)
+![alt text](https://rhttps://github.com/danielhalvorsen/TEP4165_python/blob/master/Assignment_script/FVM_EXACT_HEATCONDUCTION.png)
