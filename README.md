@@ -5,6 +5,7 @@
    * Features an analytical solution for the 1D heatconduction equation.
    
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/19cc8c8f8163566253028aa221eb0bad.svg?invert_in_darkmode&sanitize=true" align=middle width=458.7985182pt height=59.164512pt/></p>
 
                   
 * Assignment 2
