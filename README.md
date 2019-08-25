@@ -12,3 +12,5 @@
 
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
 <p align="center"><img src="/tex/8f30b89e9ae3bfbe35ad5797de695672.svg?invert_in_darkmode&sanitize=true" align=middle width=286.95335295pt height=33.62942055pt/></p>
+
+![alt text](https://raw.githubusercontent.com/danielhalvorsen/TEP4165_python/master/Assignment_script/FVM_EXACT_HEATCONDUCTION.png)
