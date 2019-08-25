@@ -5,6 +5,7 @@
    * Features an analytical solution for the 1D heatconduction equation.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
+$$\boxed{T(x,t)=\frac{T_{1}+T_{2}}{2}+\sum_{n=1}^{\infty}\frac{2[T_{1}-T_{2}]}{\pi n}\sin(\frac{\pi n}{2})\cos(\frac{\pi nx}{L})e^{{-\alpha(\frac{n\pi}{L})^2}t}}$$
 
                   
 * Assignment 2
