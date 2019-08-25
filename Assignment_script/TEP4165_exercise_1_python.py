@@ -23,10 +23,11 @@ if __name__ == '__main__':
     # Declaration of variables and vector spaces
     start = 0
     end = 1
-    points = 101
+    points = 100
     x_vector = np.linspace(start, end, points)
     L = x_vector[-1]
-    time = np.linspace(0, 25, 5 + 1)
+ #   time = np.linspace(0, 25, 5 + 1)
+    time = np.array([0, 0.08, 5, 10,15,20, 25])
     alpha = 10E-3
     T_l = 200
     T_r = 600
