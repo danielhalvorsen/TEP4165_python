@@ -18,5 +18,5 @@ $$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\left[T_{j+1}^{n}-2T
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Assignment_script/FVM_EXACT_HEATCONDUCTION.png">
 </p>
 
-*Assignment 3
+* Assignment 3
     * Features ...
