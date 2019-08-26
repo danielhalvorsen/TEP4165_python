@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Assignment_script/FVM_EXACT_HEATCONDUCTION.png">
+  <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/FVM_EXACT_HEATCONDUCTION.png">
 </p>
 
 * Assignment 3
