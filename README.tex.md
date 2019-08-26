@@ -2,7 +2,7 @@
 ### TEP4165 assignments from 2018/2019 written in Python 3.6.8. ###
 
 * Assignment 1
-   * Features an analytical solution for the 1D heatconduction equation.
+   * Features an analytical solution for the 1D heat conduction equation.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
 
