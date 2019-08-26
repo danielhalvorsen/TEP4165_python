@@ -2,7 +2,7 @@
 ### TEP4165 assignments from 2018/2019 written in Python 3.6.8. ###
 
 * Assignment 1
-   * Features an analytical solution for the 1D heatconduction equation.
+   * Features an analytical solution for the 1D heat conduction equation.
    
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
 
