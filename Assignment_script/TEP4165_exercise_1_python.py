@@ -4,6 +4,7 @@
 # Important note: if you change spatial scale with 100 you need to change temporal scale
 # with 100^2 due to the dimensionality of the PDE. Example: time: 0-25, x: 0-1.
 # time:0-25/10000, x:0-0.01.
+#Important: aeb = a*10^b, which means 1e-3 = 10⁻3
 # todo: implement automatic time scaling based on spatial scale.
 
 import numpy as np
@@ -28,7 +29,7 @@ if __name__ == '__main__':
     L = x_vector[-1]
  #   time = np.linspace(0, 25, 5 + 1)
     time = np.array([0, 0.08, 5, 10,15,20, 25])
-    alpha = 10E-3
+    alpha = 1E-3
     T_l = 200
     T_r = 600
     iterations = 50

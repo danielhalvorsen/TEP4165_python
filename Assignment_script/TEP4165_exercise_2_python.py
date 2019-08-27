@@ -33,7 +33,7 @@ if __name__ == '__main__':
     x_vec = np.linspace(0, 1, NJ)
 
     # Constants
-    alpha = 10E-3
+    alpha = 1E-3
     r = 0.4
     T_l = 200
     T_r = 600
