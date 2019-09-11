@@ -6,7 +6,7 @@
    * Both boundaries are kept insulated.
    
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
-<p align="center"><img src="/tex/1e007adbc1e7af3819603acfab75e2d4.svg?invert_in_darkmode&sanitize=true" align=middle width=89.19861225pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/8eda3b274b79db7ff7ffdc634936c281.svg?invert_in_darkmode&sanitize=true" align=middle width=200.4149928pt height=34.7253258pt/></p>
 
                   
 * Assignment 2
@@ -15,7 +15,7 @@
 
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
 <p align="center"><img src="/tex/8f30b89e9ae3bfbe35ad5797de695672.svg?invert_in_darkmode&sanitize=true" align=middle width=286.95335295pt height=33.62942055pt/></p>
-
+<p align="center"><img src="/tex/8eda3b274b79db7ff7ffdc634936c281.svg?invert_in_darkmode&sanitize=true" align=middle width=200.4149928pt height=34.7253258pt/></p>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/FVM_EXACT_HEATCONDUCTION.png">
