@@ -51,7 +51,7 @@ if __name__ == '__main__':
         print(t_end)
 
         T = upwind(u, Tb, NJ, T_0, C, t_end)
-        ax.plot(x,T,marker='d',markersize=3,linestyle='-',linewidth=0.5,label='Upwind, t= '+np.str(t_end))
+        ax.plot(x,T,marker='d',markersize=3,linestyle='-',linewidth=0.3,label='Upwind, t= '+np.str(t_end))
         ax.legend(loc=0)
 
         #ax2.plot(x_vec / x_vec[-1], T_analytical[0][t_idx, :], linestyle='-',
