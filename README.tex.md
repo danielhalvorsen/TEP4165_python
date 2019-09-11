@@ -23,7 +23,7 @@ $$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\left[T_{j+1}^{n}-2T
 * Assignment 3
     * Features an explicit upwind finite volume method for the 1D linear advection equation. 
     * For this specific case the advection velocity is u=-0.25 and the Courant number is C=-0.5.
-    * We let the right boundary condition coincide with the initial condition, $T_{NJ+1}=T_{b}=200$
+    * We let the right boundary condition coincide with the initial condition, T_{NJ+1}=T_{b}=200
 $$\frac{\partial T}{\partial t}+u\frac{\partial T}{\partial x}=0$$
 $$T_{j}^{n+1}=T_{j}^{n}-\underbrace{\frac{u \Delta t}{\Delta x}}_{\text{C}}\left(T_{j+1}^{n}-T_{j}^{n}  \right)$$
 
