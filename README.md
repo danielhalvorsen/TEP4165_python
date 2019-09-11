@@ -19,4 +19,6 @@
 </p>
 
 * Assignment 3
-    * Features ...
+    * Features an explicit upwind finite volume method for the 1D linear advection equation
+<p align="center"><img src="/tex/a82824f040a8cdddbc8a5eb01a0f5ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=108.61548059999998pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/7fe17e02e9fd0a01e704486c0882084d.svg?invert_in_darkmode&sanitize=true" align=middle width=225.23061824999996pt height=56.06774085pt/></p>
