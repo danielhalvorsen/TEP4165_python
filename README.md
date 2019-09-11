@@ -6,7 +6,7 @@
    * Both boundaries are kept insulated.
    
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
-<p align="center"><img src="/tex/8eda3b274b79db7ff7ffdc634936c281.svg?invert_in_darkmode&sanitize=true" align=middle width=200.4149928pt height=34.7253258pt/></p>
+<p align="center"><img src="/tex/85f700ca013fe06c2d97cb5f570c1c4f.svg?invert_in_darkmode&sanitize=true" align=middle width=213.20042039999998pt height=34.7253258pt/></p>
 
                   
 * Assignment 2
@@ -14,8 +14,9 @@
    * The boundary is insulated for both x=0 and x=L
 
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/85f700ca013fe06c2d97cb5f570c1c4f.svg?invert_in_darkmode&sanitize=true" align=middle width=213.20042039999998pt height=34.7253258pt/></p>
 <p align="center"><img src="/tex/8f30b89e9ae3bfbe35ad5797de695672.svg?invert_in_darkmode&sanitize=true" align=middle width=286.95335295pt height=33.62942055pt/></p>
-<p align="center"><img src="/tex/8eda3b274b79db7ff7ffdc634936c281.svg?invert_in_darkmode&sanitize=true" align=middle width=200.4149928pt height=34.7253258pt/></p>
+
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/FVM_EXACT_HEATCONDUCTION.png">
