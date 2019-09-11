@@ -5,6 +5,8 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib import rc
+
 
 
 def upwind(u, Tb, NJ, T_0, C, t_end):
@@ -23,10 +25,10 @@ def upwind(u, Tb, NJ, T_0, C, t_end):
     return T
 
 
-#rc('font', **{'family': 'sans-serif', 'sans-serif': ['Helvetica']})
+rc('font', **{'family': 'sans-serif', 'sans-serif': ['Helvetica']})
 ## for Palatino and other serif fonts use:
 # rc('font',**{'family':'serif','serif':['Palatino']})
-#rc('text', usetex=True)
+rc('text', usetex=True)
 
 if __name__ == '__main__':
     Tb = 200
@@ -49,7 +51,7 @@ if __name__ == '__main__':
         print(t_end)
 
         T = upwind(u, Tb, NJ, T_0, C, t_end)
-        ax.plot(x,T,marker='x',markersize=3,linestyle='-',label='Upwind, t= '+np.str(t_end))
+        ax.plot(x,T,marker='x',markersize=2,linestyle='-',label='Upwind, t= '+np.str(t_end))
         ax.legend(loc=0)
 
         #ax2.plot(x_vec / x_vec[-1], T_analytical[0][t_idx, :], linestyle='-',
@@ -58,6 +60,7 @@ if __name__ == '__main__':
 
 
 
-    plt.xlabel('x/L (-)')
-    plt.ylabel('Temperature, T (K)')
+    plt.xlabel('$x/L (-)$')
+    plt.ylabel('Temperature, $T (K)$')
+    plt.savefig('expl_upwind_C-05.png')
     plt.show()
