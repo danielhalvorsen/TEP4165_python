@@ -6,7 +6,7 @@
    * Both boundaries are kept insulated.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
-$$\frac{\partial T(x=0,t)}{\partial x}=\frac{\partial T(x=L,t)}{\partial x}=0$$
+$$\frac{\partial}{\partial x}T(x=0,t)=\frac{\partial}{\partial x}T(x=L,t)=0$$
 
                   
 * Assignment 2
