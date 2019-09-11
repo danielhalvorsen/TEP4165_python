@@ -6,6 +6,7 @@
    * Both boundaries are kept insulated.
    
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
+<p align="center"><img src="/tex/1e007adbc1e7af3819603acfab75e2d4.svg?invert_in_darkmode&sanitize=true" align=middle width=89.19861225pt height=33.81208709999999pt/></p>
 
                   
 * Assignment 2
@@ -23,10 +24,10 @@
 * Assignment 3
     * Features an explicit upwind finite volume method for the 1D linear advection equation. 
     * For this specific case the advection velocity is u=-0.25 and the Courant number is C=-0.5.
-    * We let the right boundary condition coincide with the initial condition, T_{NJ+1}=T_{b}=200
+    * We let the right boundary condition coincide with the initial condition.
 <p align="center"><img src="/tex/a82824f040a8cdddbc8a5eb01a0f5ef3.svg?invert_in_darkmode&sanitize=true" align=middle width=108.61548059999998pt height=33.81208709999999pt/></p>
 <p align="center"><img src="/tex/7fe17e02e9fd0a01e704486c0882084d.svg?invert_in_darkmode&sanitize=true" align=middle width=225.23061824999996pt height=56.06774085pt/></p>
-
+<p align="center"><img src="/tex/ce12996e3583a73354c592172e71ea69.svg?invert_in_darkmode&sanitize=true" align=middle width=131.77839674999998pt height=15.068469899999998pt/></p>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/expl_upwind_C-05.png">
