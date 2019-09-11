@@ -3,6 +3,7 @@
 
 * Assignment 1
    * Features an analytical solution for the 1D heat conduction equation.
+   * Both boundaries are kept insulated.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
 
