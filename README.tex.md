@@ -6,6 +6,7 @@
    * Both boundaries are kept insulated.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
+$$\frac{\partial T_{x=0,L}}{\partial x}=0  $$
 
                   
 * Assignment 2
@@ -23,10 +24,10 @@ $$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\left[T_{j+1}^{n}-2T
 * Assignment 3
     * Features an explicit upwind finite volume method for the 1D linear advection equation. 
     * For this specific case the advection velocity is u=-0.25 and the Courant number is C=-0.5.
-    * We let the right boundary condition coincide with the initial condition, T_{NJ+1}=T_{b}=200
+    * We let the right boundary condition coincide with the initial condition.
 $$\frac{\partial T}{\partial t}+u\frac{\partial T}{\partial x}=0$$
 $$T_{j}^{n+1}=T_{j}^{n}-\underbrace{\frac{u \Delta t}{\Delta x}}_{\text{C}}\left(T_{j+1}^{n}-T_{j}^{n}  \right)$$
-
+$$T_{NJ+1}=T_{b}=200$$
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/expl_upwind_C-05.png">
