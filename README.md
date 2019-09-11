@@ -14,7 +14,7 @@
    * The boundary is insulated for both x=0 and x=L
 
 <p align="center"><img src="/tex/a3f4ce18d220d3d653d024810301792e.svg?invert_in_darkmode&sanitize=true" align=middle width=84.37884345pt height=33.81208709999999pt/></p>
-<p align="center"><img src="/tex/3125cc3ae12e9b013c4792763c41caf2.svg?invert_in_darkmode&sanitize=true" align=middle width=235.1180502pt height=34.7253258pt/></p>
+<p align="center"><img src="/tex/389df9f52d48c9152c208e369bcc7ead.svg?invert_in_darkmode&sanitize=true" align=middle width=253.90813965pt height=33.81208709999999pt/></p>
 <p align="center"><img src="/tex/8f30b89e9ae3bfbe35ad5797de695672.svg?invert_in_darkmode&sanitize=true" align=middle width=286.95335295pt height=33.62942055pt/></p>
 
 
