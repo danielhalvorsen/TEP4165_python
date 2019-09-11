@@ -6,7 +6,7 @@
    * Both boundaries are kept insulated.
    
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
-$$\frac{\partial T_{x=0,L}}{\partial x}=0  $$
+$$\frac{\partial T(x=0,t}{\partial x}=\frac{\partial T(x=L,t}{\partial x}0$$
 
                   
 * Assignment 2
@@ -15,7 +15,7 @@ $$\frac{\partial T_{x=0,L}}{\partial x}=0  $$
 
 $$\frac{\partial T}{\partial t}=\alpha \frac{\partial T}{\partial x^{2}}$$
 $$T_{j}^{n+1}=T_{j}^{n}+\frac{\alpha \Delta t}{\Delta x^{2}}\left[T_{j+1}^{n}-2T_{j}^{n}+T_{j-1}^{n}\right]$$
-
+$$\frac{\partial T(x=0,t}{\partial x}=\frac{\partial T(x=L,t}{\partial x}0$$
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/danielhalvorsen/TEP4165_python/blob/master/Figures/FVM_EXACT_HEATCONDUCTION.png">
